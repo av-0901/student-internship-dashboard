@@ -1,0 +1,18 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\hemant.d\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.8.0
+2 info using node@v22.19.0
+3 silly config load:file:C:\Users\hemant.d\AppData\Roaming\npm\node_modules\npm\npmrc
+4 silly config load:file:D:\apv_temp\student-internship-dashboard\frontend\.npmrc
+5 silly config load:file:C:\Users\hemant.d\.npmrc
+6 silly config load:file:C:\Users\hemant.d\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm run build
+8 verbose argv "run" "build"
+9 verbose logfile logs-max:10 dir:D:\apv_temp\student-internship-dashboard\frontend\npm-cache\_logs\2026-10-08T08_36_57_965Z-
+10 verbose logfile D:\apv_temp\student-internship-dashboard\frontend\npm-cache\_logs\2026-10-08T08_36_57_965Z-debug-0.log
+11 silly logfile done cleaning log files
+12 verbose cwd D:\apv_temp\student-internship-dashboard\frontend
+13 verbose os Windows_NT 10.0.22631
+14 verbose node v22.19.0
+15 verbose npm  v10.8.0
+16 verbose exit 1
+17 verbose code 1

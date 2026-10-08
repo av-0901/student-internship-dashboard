@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+backend/venv/
+.pytest_cache/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+*.tsbuildinfo
+
+# Generated data (re-created by backend/data_processing.py). Contains personal data - never commit.
+outputs/*
+!outputs/.gitkeep
+
+# Student data is personal information - keep it out of source control
+data/*.csv
+data/*.xlsx
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
